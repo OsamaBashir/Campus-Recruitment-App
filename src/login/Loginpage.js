@@ -1,6 +1,6 @@
 import React from "react";
 import { useState } from "react";
-import "bootstrap/dist/css/bootstrap.min.css";
+// import "bootstrap/dist/css/bootstrap.min.css";
 import logo from "../assests/images/logo.png";
 import { Button, Form } from "react-bootstrap";
 import { Link, useHistory } from "react-router-dom";
