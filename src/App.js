@@ -1,4 +1,4 @@
-// import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 import Loginpage from "./login/Loginpage";
 import { Route, Switch } from "react-router-dom";
@@ -9,7 +9,6 @@ import Profile from "./Pages/profile/Profile";
 import Companies from "./Pages/student/Companies";
 import AllJobs from "./Pages/student/AllJobs";
 import AppliedJobs from "./Pages/student/AppliedJobs";
-
 
 function App() {
   return (
